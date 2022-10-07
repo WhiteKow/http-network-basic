@@ -8,4 +8,7 @@
 
 |           Date            |     Description     |                Reviewer                 |            Link                    |
 | :-----------------------: | :-----------------: | :-------------------------------------: | :--------------------------------: |
-| **2022-10-08(Sat)/09:00** |                     | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                    |
+| **2022-10-08(Sat)/09:00** |       Ch01, Ch02    | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                    |
+| **2022-10-08(Sat)/09:00** |       Ch01, Ch02    | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                    |
+| **2022-10-08(Sat)/09:00** |       Ch01, Ch02    | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                    |
+
