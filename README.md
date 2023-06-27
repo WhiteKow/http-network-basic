@@ -1,4 +1,5 @@
 # 그림으로 배우는 Http & Network Basic
+![image](https://github.com/WhiteKow/http-network-basic-study/assets/37402136/8a5e4122-aa64-4b46-81e5-c3cee4d33da8)
 
 ## Description
 
